@@ -1,0 +1,6 @@
+{
+  "name": "Taani's Makeovers Unisex Salon & Academy",
+  "description": "Minimal luxury unisex salon and beauty academy in Jalandhar offering professional haircuts, styling, bridal artistry, skin treatments, and online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
